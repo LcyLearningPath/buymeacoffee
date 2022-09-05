@@ -14,4 +14,4 @@ npx hardhat run scripts/deploy.js
 ```
 
 TODO List:
-1. how to deploy on a test chain
+1. add more features
