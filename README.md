@@ -12,3 +12,6 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+TODO List:
+1. how to deploy on a test chain
